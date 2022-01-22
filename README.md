@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/naefun/naefun/master/githubHeader.png">
+<img src="https://raw.githubusercontent.com/naefun/naefun/main/githubHeader.png">
 
 ## 👋 Hey there!
 
